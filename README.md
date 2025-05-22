@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amadabh/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amadabh/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Amadabh/leetcode/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/Amadabh/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Amadabh/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amadabh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Amadabh/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
