@@ -18,7 +18,9 @@ class Solution:
                 l +=1
             else:
                 r-=1
-        if  matrix[target_row][l]==target:
+
+        # will fail this test case [[1]] without the below check 
+        if matrix[target_row][l]==target:
             return True
         return False
         
