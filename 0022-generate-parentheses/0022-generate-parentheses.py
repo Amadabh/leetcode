@@ -9,8 +9,9 @@ class Solution:
 
             if num==0:
             #wjhile loop close: based on len of the string in between
-                while len(st)<str_maxlen:
+                while open!=0:
                     st+=")"
+                    open-=1
                 ans.append(st)
                 return
 
