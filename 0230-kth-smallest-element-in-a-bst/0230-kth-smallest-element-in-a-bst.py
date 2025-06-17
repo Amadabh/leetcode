@@ -15,7 +15,7 @@ class Solution:
             arr.append(root.val)
             dfs(root.right)
         dfs(root)
-        print(arr)
+        # print(arr)
         return arr[k-1]
         
         
