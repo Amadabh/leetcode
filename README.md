@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Amadabh/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Amadabh/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Amadabh/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Amadabh/leetcode/tree/master/1127-last-stone-weight) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amadabh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amadabh/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0940-fruit-into-baskets](https://github.com/Amadabh/leetcode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amadabh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Amadabh/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/Amadabh/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
 | ------- |
