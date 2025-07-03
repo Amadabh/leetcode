@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Amadabh/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Amadabh/leetcode/tree/master/0136-single-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Amadabh/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Amadabh/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Amadabh/leetcode/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -236,8 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
