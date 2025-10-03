@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Amadabh/leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/Amadabh/leetcode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Amadabh/leetcode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Amadabh/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Amadabh/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/Amadabh/leetcode/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Amadabh/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
