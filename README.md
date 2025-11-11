@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amadabh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Amadabh/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/Amadabh/leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amadabh/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Amadabh/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Amadabh/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amadabh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amadabh/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/Amadabh/leetcode/tree/master/0436-find-right-interval) |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amadabh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amadabh/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amadabh/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0436-find-right-interval](https://github.com/Amadabh/leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amadabh/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Amadabh/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Amadabh/leetcode/tree/master/0907-koko-eating-bananas) |
