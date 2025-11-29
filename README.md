@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Amadabh/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Amadabh/leetcode/tree/master/1127-last-stone-weight) |
+| [1470-shuffle-the-array](https://github.com/Amadabh/leetcode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amadabh/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/Amadabh/leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
