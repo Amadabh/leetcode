@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amadabh/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Amadabh/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Amadabh/leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Amadabh/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Amadabh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Amadabh/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amadabh/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Amadabh/leetcode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Amadabh/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Amadabh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amadabh/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Amadabh/leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Amadabh/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Amadabh/leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Amadabh/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
