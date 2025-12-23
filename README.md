@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/Amadabh/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/Amadabh/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/Amadabh/leetcode/tree/master/1415-students-and-examinations) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Amadabh/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Amadabh/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Amadabh/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Amadabh/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
