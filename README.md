@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Amadabh/leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Amadabh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Amadabh/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Amadabh/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/Amadabh/leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amadabh/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Amadabh/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Amadabh/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Amadabh/leetcode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Amadabh/leetcode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amadabh/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Amadabh/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Amadabh/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Amadabh/leetcode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
