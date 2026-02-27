@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Amadabh/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amadabh/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amadabh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Amadabh/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amadabh/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Amadabh/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amadabh/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Amadabh/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Amadabh/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Amadabh/leetcode/tree/master/0190-reverse-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
