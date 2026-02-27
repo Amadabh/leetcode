@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amadabh/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Amadabh/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Amadabh/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Amadabh/leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Amadabh/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Amadabh/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Amadabh/leetcode/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amadabh/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Amadabh/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Amadabh/leetcode/tree/master/0136-single-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amadabh/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Amadabh/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Amadabh/leetcode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Amadabh/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amadabh/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Amadabh/leetcode/tree/master/1929-concatenation-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amadabh/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
